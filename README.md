@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Arwa!
 
-<!--
-**arwaguudle/arwaguudle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s degree student in **Data Science**  
+🤖 Aspiring **Machine Learning Engineer** | Robotics enthusiast
 
-Here are some ideas to get you started:
+I enjoy working with **data, machine learning, and robotics**, and I like exploring new technologies such as **web design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Master’s student specializing in data science
+- Interested in machine learning, intelligent systems, and robotics
+- Currently learning ML techniques, robotics concepts, and web technologies
+- Enjoy combining software and hardware ideas
+
+---
+
+## Tech Stack
+
+- **Programming & Data:** Python, SQL, JavaScript, HTML, CSS  
+- **Machine Learning:** Pandas, NumPy, Scikit-learn *(TensorFlow / PyTorch learning)*  
+- **Robotics:** Arduino, ROS *(learning)*  
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+✨ * I like discovering new things, building projects, and learning by applying ideas in practice.*

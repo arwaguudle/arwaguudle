@@ -25,4 +25,4 @@ I enjoy working with **data, machine learning, and robotics**, and I like explor
 
 ---
 
-✨ * I like discovering new things, building projects, and learning by applying ideas in practice.*
+✨ I like discovering new things, building projects, and learning by applying ideas in practice.

@@ -18,9 +18,10 @@ I enjoy working with **data, machine learning, and robotics**, and I like explor
 
 ## Tech Stack
 
-- **Programming & Data:** Python, SQL, JavaScript, HTML, CSS  
-- **Machine Learning:** Pandas, NumPy, Scikit-learn *(TensorFlow / PyTorch learning)*  
-- **Robotics:** Arduino, ROS *(learning)*  
+- **Programming & Data:** Python, SQL, R, MATLAB, JavaScript, HTML, CSS
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn
+- **Robotics:** Arduino *(learning)*
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ---
